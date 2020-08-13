@@ -31,3 +31,7 @@ Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytP
 4. Supports command-line arguments so you can run the following command to get help and more settings
 
 >`>>> photomosaic_generator.py --help`
+
+
+
+:smile:
