@@ -2,6 +2,8 @@
 
 A python program that takes one main image and tens of other filler images to form a photomosaic of the main image consisting of the filler images as tiles. Provides the option to set the resolution of individual tiles that make up the photomosaic and also control the sampling resolution of the final output.
 
+If you don't want the source file but just the simple executable file then [this might be the link](https://github.com/sarathsajan/photomosaic_generator_executable) helpful for you.
+
 ### Working
 
 1. Take a main image.
