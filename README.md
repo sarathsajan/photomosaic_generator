@@ -22,7 +22,7 @@ A python program that takes one main image and tens of other filler images to fo
 
 >`>>> photomosaic_generator.py`
 
-<img src="https://i.paste.pics/f5a485bd28b06da1219d6eaaa00fc6d8.png" height="400" width=auto>
+<img src="https://i.paste.pics/9TCA0.png" width="500" height="189" alt="Screenshot">
 
 Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytPcjNhtJxCZqVFNnRZoJk9RLM/view?usp=sharing) in its full glory.
 
