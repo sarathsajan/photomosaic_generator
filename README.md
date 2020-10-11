@@ -25,12 +25,8 @@ A python program that takes one main image and tens of other filler images to fo
 
 <img src="https://i.paste.pics/9TCA0.png" width="500" height="189" alt="Screenshot">
 
-Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytPcjNhtJxCZqVFNnRZoJk9RLM/view?usp=sharing) in its full glory.
+Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytPcjNhtJxCZqVFNnRZoJk9RLM/view?usp=sharing) in its full glory. File size is 30MB
 
 4. Supports command-line arguments so you can run the following command to get help and more settings
 
 >`>>> photomosaic_generator.py --help`
-
-
-
-:smile:
