@@ -12,13 +12,13 @@ ___
 
 ### Working
 
-#### 1. Take a main image.
+#### 1. Take a main image and paste it in the "main image" folder.
 
 <img src="https://github.com/sarathsajan/photomosaic_generator/blob/master/main_image/img.jpg" width="500">
 <br>
 <br>
 
-#### 2. Collect tens of filler images which will be used as tiles. The more the merrier.
+#### 2. Collect lots of filler images which will be used as tiles and paste them in the "filler images" folder. The more the merrier.
 
 <img src="https://picsum.photos/200"> <img src="https://picsum.photos/201"> <img src="https://picsum.photos/199"> <img src="https://picsum.photos/202"> <img src="https://picsum.photos/203"> <img src="https://picsum.photos/198"> <img src="https://picsum.photos/197"> <img src="https://picsum.photos/204"> <img src="https://picsum.photos/205"> <img src="https://picsum.photos/202"> <img src="https://picsum.photos/196"> <img src="https://picsum.photos/206">
 <br>
@@ -27,7 +27,7 @@ ___
 
 #### 3. Run the program and you get the photomosaic auto-magically!!!
 
-`>>> photomosaic_generator.py`
+```>>> photomosaic_generator.py```
 
 <img src="https://i.paste.pics/9TCA0.png">
 
@@ -36,6 +36,6 @@ Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytP
 <br>
 <br>
 
-#### 4. Supports command-line arguments so you can run the following command to get help and more settings
+#### 4. The program supports command-line arguments so you can run the following command to get help and more settings
 
-`>>> photomosaic_generator.py --help`
+```>>> photomosaic_generator.py --help```
