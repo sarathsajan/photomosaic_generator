@@ -31,7 +31,7 @@ ___
 
 <div display="table-cell" align="center">
    <table>
-     <tr>
+     <tr height=100%>
        <td>
          <img src="https://i.paste.pics/B8OD8.png" width=50%>
        </td>
