@@ -4,7 +4,7 @@ A python program that takes one main image and tens of other filler images to fo
 ___
 
 ### Project Summary [VIDEO]
-[<img src="https://pasteboard.co/JIv5fjy.png" width="50%">](https://www.youtube.com/watch?v=GNd3fVvs93U)
+[ <img src="https://pasteboard.co/JIv5fjy.png"> ](https://www.youtube.com/watch?v=GNd3fVvs93U)
 ___
 
 ### Working
@@ -25,7 +25,7 @@ ___
 
 `>>> photomosaic_generator.py`
 
-<img src="https://i.paste.pics/9TCA0.png" width="50%">
+<img src="https://i.paste.pics/9TCA0.png">
 
 Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytPcjNhtJxCZqVFNnRZoJk9RLM/view?usp=sharing) in its full glory [File size is 30MB]
 <br>
