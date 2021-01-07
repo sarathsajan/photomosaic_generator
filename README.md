@@ -4,7 +4,9 @@ A python program that takes one main image and tens of other filler images to fo
 ___
 
 ### Project Summary [VIDEO]
-[ <img src="https://pasteboard.co/JIv5fjy.png"> ](https://www.youtube.com/watch?v=GNd3fVvs93U)
+
+<a href="https://www.youtube.com/watch?v=GNd3fVvs93U"><img src="https://i.paste.pics/B8O7T.png" width=50%></a>
+
 ___
 
 ### Working
