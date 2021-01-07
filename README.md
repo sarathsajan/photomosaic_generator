@@ -1,6 +1,7 @@
 # *Photomosaic***Generator**
 
 A python program that takes one main image and tens of other filler images to form a photomosaic of the main image consisting of the filler images as tiles. Provides the option to set the resolution of individual tiles that make up the photomosaic and also control the sampling resolution of the final output.
+
 ___
 
 ### Project Summary [VIDEO]
@@ -22,6 +23,7 @@ ___
 <img src="https://picsum.photos/200"> <img src="https://picsum.photos/201"> <img src="https://picsum.photos/199"> <img src="https://picsum.photos/202"> <img src="https://picsum.photos/203"> <img src="https://picsum.photos/198"> <img src="https://picsum.photos/197"> <img src="https://picsum.photos/204"> <img src="https://picsum.photos/205"> <img src="https://picsum.photos/202"> <img src="https://picsum.photos/196"> <img src="https://picsum.photos/206">
 <br>
 <br>
+<br>
 
 #### 3. Run the program and you get the photomosaic auto-magically!!!
 
@@ -30,6 +32,7 @@ ___
 <img src="https://i.paste.pics/9TCA0.png">
 
 Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytPcjNhtJxCZqVFNnRZoJk9RLM/view?usp=sharing) in its full glory [File size is 30MB]
+<br>
 <br>
 <br>
 
