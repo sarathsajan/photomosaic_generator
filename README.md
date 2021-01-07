@@ -6,7 +6,7 @@ ___
 
 ### Project Summary [VIDEO]
 
-<a href="https://www.youtube.com/watch?v=GNd3fVvs93U"><img src="https://i.paste.pics/B8O7T.png" width=50%></a>
+<a href="https://www.youtube.com/watch?v=GNd3fVvs93U"><img src="https://i.paste.pics/B8O7T.png" width=75%></a>
 
 ___
 
@@ -29,7 +29,9 @@ ___
 
 ```>>> photomosaic_generator.py```
 
-<img src="https://i.paste.pics/9TCA0.png">
+<div align="center">
+  <img src="https://i.paste.pics/B8OD8.png" width=25%><img src="https://i.paste.pics/B8ODB.png" width=20%><img src="https://i.paste.pics/B8ODA.png" width=25%>
+</div>
 
 Here is the [link to the photomosaic](https://drive.google.com/file/d/1drL4zTytPcjNhtJxCZqVFNnRZoJk9RLM/view?usp=sharing) in its full glory [File size is 30MB]
 <br>
