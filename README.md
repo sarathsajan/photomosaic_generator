@@ -35,7 +35,7 @@ ___
        <td>
          <img src="https://i.paste.pics/B8OD8.png" width=50%>
        </td>
-       <td>
+       <td width=10%>
          <img src="https://i.paste.pics/B8ODB.png" width=20%>
        </td>
        <td>
