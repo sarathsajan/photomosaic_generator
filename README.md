@@ -29,11 +29,17 @@ ___
 
 ```>>> photomosaic_generator.py```
 
-<div>
+<div display="table-cell" align="center">
    <table>
      <tr>
-       <td vlign="center">
-         <img src="https://i.paste.pics/B8OD8.png" width=25%><img src="https://i.paste.pics/B8ODB.png" width=20%><img src="https://i.paste.pics/B8ODA.png" width=25%>
+       <td>
+         <img src="https://i.paste.pics/B8OD8.png" width=50%>
+       </td>
+       <td>
+         <img src="https://i.paste.pics/B8ODB.png" width=20%>
+       </td>
+       <td>
+         <img src="https://i.paste.pics/B8ODA.png" width=50%>
        </td>
      </tr>
   </table>
