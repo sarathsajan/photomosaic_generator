@@ -92,7 +92,7 @@ def split_main_image():
     
     os.mkdir("main_image_blocks")   #create a new folder for storing the main image blocks
 
-    if cv2.imread('./main_image/img.jpg', 1):
+    if (cv2.imread('./main_image/img.jpeg', 1)) == None:
         img = cv2.imread('./main_image/img.jpg', 1) # load the color jpg image
     else:
         img = cv2.imread('./main_image/img.jpeg', 1) # load the color jpeg image
